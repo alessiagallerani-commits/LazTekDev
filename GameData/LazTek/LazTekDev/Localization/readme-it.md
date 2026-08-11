@@ -4,7 +4,7 @@ title: Istruzioni per la localizzazione e la traduzione
 ---
 <!-- readme-it.md v2.1.2.0
 Localization project
-created: 01 Jen 2018
+created: 01 Jan 2018
 updated: 13 May 2022  -->
 
 <!--da: @HebruSan (grazie) ![link](https://github.com/HebaruSan/Astrogator/tree/master/assets/lang)  -->
