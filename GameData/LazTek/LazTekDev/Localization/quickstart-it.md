@@ -6,7 +6,7 @@ title: Guida rapida per iniziare
 <!--
 quickstart-it.md v1.0.1.1
 Localization project
-created: 01 Jen 2018
+created: 01 Jan 2018
 updated: 20 May 2022
 
 -->
