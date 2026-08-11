@@ -1,13 +1,13 @@
 ---
-permalink: /Quickstart-it.html
+permalink: /quickstart-it.html
 title: Guida rapida per iniziare
 ---
 
 <!--
-quickstart.md v1.0.1.1
-Progetto di Localizzazione
-creato: 01 Gen 2018
-aggiornato: 20 Mag 2022
+quickstart-it.md v1.0.1.1
+Localization project
+created: 01 Jen 2018
+updated: 20 May 2022
 
 -->
 
