@@ -37,7 +37,7 @@ Per creare una traduzione per la tua lingua, fai una copia del file *en_us.cfg* 
 
 Ci sono alcuni caratteri speciali che non devono essere tradotti in altre lingue e vanno mantenuti nel file così come sono.
 
-1. i tag non vanno rimpiazzati. Invece i tag nella nuova lingua vanno aggiunti.
+1. i tag esistenti non vanno rimpiazzati. Invece i tag nella nuova lingua vanno aggiunti in coda.
 2. le sequenze di controllo come '\n', '\t' o simili.
 3. i tag HTML come  `<b>...</b>, <i>...</i>` o simili.
 
